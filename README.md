@@ -1,12 +1,6 @@
 # 2D Numerical Simulation of Soil Water Infiltration in Loam Soil
 
-
 ![Simulation](./results/soil_moisture_timelapse.gif)
-
-
-<p>
-<img src="./results/soil_moisture_timelapse.gif" alt="Soil Moisture Final State" style="width:100%; height:auto; border-radius: 10px;">
-</p>
 
 This project implements a **Finite Difference** numerical solver to model moisture transport in unsaturated porous media. This project simulates the radial expansion of a "wetting bulb" from a drip emitter, providing insights into precision irrigation and root-zone water distribution.
 
